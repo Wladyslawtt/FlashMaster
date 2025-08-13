@@ -2,6 +2,8 @@
 
 A modern, intelligent flashcard application built with JavaScript that helps you master vocabulary through spaced repetition learning. Available as both a web app and a desktop application.
 
+(for this time I did it for Mac, but if it will be needed, I can publish Windows and Linux too)
+
 ## ✨ Features
 
 - **Two-Sided Cards**: Front shows the word, back shows the translation
