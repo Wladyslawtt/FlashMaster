@@ -19,14 +19,14 @@ A modern, intelligent flashcard application built with JavaScript that helps you
 - **Responsive Design**: Works perfectly on both desktop and mobile devices
 - **Desktop App**: Native desktop application with system integration
 
-## 🚀 Getting Started
-
 ## 🚀 Download Latest Release
 
 Get the latest desktop version of FlashCard Master here:  
 [Download FlashCard Master `.dmg`](https://github.com/Wladyslawtt/FlashMaster/releases/latest)
 
 ## OR
+
+## 🚀 Getting Started
 
 ### Option 1: Web App
 1. **Open the App**: Simply open `index.html` in your web browser
